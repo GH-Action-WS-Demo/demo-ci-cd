@@ -39,3 +39,4 @@ Demo repository for using GitHub Actions in a CI/CD context.
     - Delete any branch protections rules created
     - Ensure any PRs created are closed/merged
 
+This is a test
